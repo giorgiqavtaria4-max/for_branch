@@ -1,3 +1,5 @@
+import java.util.logging.SocketHandler;
+
 public class Main {
 
     public static void main(String [] args) {
@@ -14,11 +16,13 @@ public class Main {
       return a;
      }
 
-    static int display(int a,int b,int c){
-        return a*b;
+    static void display(int a,int b, int c){
+        System.out.println("hello it is 1 ");
     }
-    static int display(int a,int b,int c, int d){
-        return a*b;
+    static  void  action(){
+        System.out.println("hello it is java ");
     }
+
+
 
 }
