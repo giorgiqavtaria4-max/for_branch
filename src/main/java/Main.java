@@ -11,7 +11,7 @@ public class Main {
     }
 
      static int display(int a,int b){
-      return a+b;
+      return a;
      }
 
 }
