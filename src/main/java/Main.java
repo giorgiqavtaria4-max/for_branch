@@ -14,4 +14,11 @@ public class Main {
       return a;
      }
 
+    static int display(int a,int b,int c){
+        return a*b;
+    }
+    static int display(int a,int b,int c, int d){
+        return a*b;
+    }
+
 }
