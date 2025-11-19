@@ -7,33 +7,10 @@ public class Main {
 
 
 
-        System.out.println(display(1,1));
+        System.out.println("hello");
 
 
     }
-
-     static int display(int a,int b){
-      return a;
-     }
-
-
-    static void display(int a,int b, int c){
-        System.out.println("hello it is 1 ");
-    }
-    static  void  action(){
-        System.out.println("hello it is java ");
-    }
-
-
-
-    static int display(int a,int b,int c, int d){
-        return a*b;
-    }
-
-    static double dosomething(){
-        return 0;
-    }
-
 
 
 
