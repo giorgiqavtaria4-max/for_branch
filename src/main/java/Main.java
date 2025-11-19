@@ -5,13 +5,13 @@ public class Main {
 
         System.out.println("hello it is java ");
 
-        display(1,3);
+        System.out.println(display(2,3));
 
 
     }
 
-     static void display(int a,int b){
-         System.out.println(b+" "+a );
+     static int display(int a,int b){
+      return a+b;
      }
 
 }
