@@ -8,9 +8,6 @@ public class Main {
 
     }
 
-    static void dosam(){
-        System.out.println("gg");
-    }
 
 
 
